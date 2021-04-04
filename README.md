@@ -12,3 +12,7 @@ Sample website with plenty of files for demo
 The purpose is clean and clear.
 
 ## How to contribute
+
+
+## Copyright
+   Copyright 2021 Aakash Ranjan
